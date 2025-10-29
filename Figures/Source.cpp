@@ -11,6 +11,10 @@ class Segment {
   double end;
 };
 
+class Two_D {
+
+}
+
 int main() {
 
 }
