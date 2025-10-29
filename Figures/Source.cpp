@@ -11,6 +11,11 @@ class Segment {
   double end;
 };
 
+class Three_Dimensions {
+
+};
+
+
 int main() {
 
 }
